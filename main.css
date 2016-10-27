@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  size: 11px;
+
+}
+
+div {
+	color: white;
+	border-width: 22px;
+	border-color: black;
+	background: green;
+	border-style: solid;
+	padding: 12px;
+
+}
